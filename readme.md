@@ -47,7 +47,8 @@ The syntax is similar to vim's keymaps, with slight modifications.
 `vnoremap  'J'   ":m '>+1<cr>gv=gv" { silent = true } 'Move selected lines down'`\
 `<method> <key>      <command>          [options]           <description>`
 
-![keymaps.png](./assets/keymaps.png)
+![image](https://github.com/user-attachments/assets/87f6af95-512e-458f-8094-8a734e917747)
+
 
 ## Why hashish.nvim when you already have a built-in way?
 
